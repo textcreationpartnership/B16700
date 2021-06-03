@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advertisement. I am sensible this publick way of practise has been brought into disesteem with some men, through the ignorance of several who have us'd it ...</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16700</idno><idno type="EEBO-CITATION">99888599</idno>
+  <idno type="VID">195825</idno>
+  <idno type="EEBO-PROQUEST">2248544904</idno>
+  
+            <idno type="STC">Wing A615D</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[20]</idno>
+            <idno type="STC">ESTC R231227</idno>
+            <idno type="PROQUEST">ocm99888599</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888599e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16700)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195825)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advertisement. I am sensible this publick way of practise has been brought into disesteem with some men, through the ignorance of several who have us'd it ...</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>At end of text:  The Poor may have Advice for Nothing.</note>
+                  <note>Imperfect: foxed, affecting legibility of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, popular --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:195825:1"/>
+            <pb facs="tcp:195825:1"/>
+            <head>Advertisement.</head>
+            <p>I AM sensible this Publick way of Practise has been brought into Dis-esteem with some Men, through the Ignorance of several who have us'd it; and though from thence I expect the Consure of some, yet I cannot think I deserve it from any, nor perswade my self but that I may, without an Af<g ref="char:EOLhyphen"/>front to Learning, make a just use of that Method, which by vain Pretenders has only been Abus'd. As I have been bred to Physick, so I give Advice in all Distempers; and as I have, as well in my Converse and Practice abroad, as my Experience at home, discover'd more than ordinary Means in effecting the Cure of many Diseases, so I shall not think I do amiss, if I hereby give Notice to such whose Distempers give them a claim to my Assistance.</p>
+            <p>An old inveterate <hi>Head-ach,</hi> though of some years standing, I perfectly take away in a short time, and speedily relieve those wracking Pains which many endeavour to purchase Ease for at any Rate.</p>
+            <p>
+               <hi>Convulsion-Fits</hi> and <hi>Epilepsies,</hi> either in Young or Old, I Cure in a short space; Children in a Week. Men and Women in about a Fortnight.</p>
+            <p>
+               <hi>Asthma's, Ptisicks</hi> and <hi>Consumptions,</hi> I have so effectual a Method in Curing, that I have often re<g ref="char:EOLhyphen"/>stor'd such whose Recovery has been dispair'd of.</p>
+            <p>I have such powerful Means in Curing the <hi>Wind-Cholick,</hi> that I take away the most violent pains that are in about half an hour, as many have Experienc'd to their comfort, who have lain as it were 'on the Wrack for 5 or 6 days together.</p>
+            <p>
+               <hi>Dropsies</hi> of any kind I can safely, from Experience, engage to Cure, in the worst of any Curable State, having recovered many who have been left off as past Hope; therefore if any imagine them<g ref="char:EOLhyphen"/>selves to be Incurable, let them come to me, and if I find them so, I shall neither do them nor my <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Injury to undertake them.</p>
+            <p>I give perfect Ease to the most violent and wracking pains of the <hi>STONE</hi> (either in Renas or Mad<g ref="char:EOLhyphen"/>der) in two hours time, and in about 14 days I dissolve the Stone, and bring it away without pain. In this Distemper I have done Cures even beyond my own Expectation; as likewise in the <hi>Stranguary,</hi> or stoppage of Urine.</p>
+            <p>
+               <hi>Incontinency</hi> of <hi>Urine,</hi> or such as cannot hold their Water, I have a certain Cure for. No doubt but those who are troubled with this unhandsome Evil, would gradly be deliver'd from it, for Nature is as much concern'd at, and as willing to be rectify'd in her Indecent Errors, as free'd from her Afflicting pains; therefore since few know how to give Relief in this Case, and Providence has allot<g ref="char:EOLhyphen"/>ted me an effectual Method herein, to keep it silent would be Injustice to the World, by concealing a Happiness which many may desire, and in some sense have a Right to enjoy. I Care this Distemper not only in Children, but in those of any Age.</p>
+            <p>I Cure the <hi>Bloody-Flux</hi> Infallibly, as also the <hi>Griping of the Guts,</hi> attended with a <hi>Looseness</hi> and <hi>Vomiting,</hi> and that with more speed than will be easily imagin'd, but by those who have had occasion to try.</p>
+            <p>
+               <hi>Venereal Diseases</hi> of all kinds I thorowly Cure, though they are Exalted to the highest degree of Malignity. A <hi>Gonorhoea,</hi> or <hi>Running of the Reins,</hi> attended with pricking pains in making Water, I Cure in a Fortnight without <hi>Mercury,</hi> so perfectly, that I never leave the least Symptom for the Patient ever to complain of after. No Distemper whatsoever has been so abur'd by Igno<g ref="char:EOLhyphen"/>rant Pretenders as this, as I have found by many who have come to me in a miserable Condition, after having been Tormented by them for half a Year, by a preposterous Course of improper and ineffectual Physick, some with intolerable pains in their Bones, others with Nodes in their Legs and Arms; others with Ulcers in their Throats, <hi>&amp;c.</hi> And as I have met with many who have been spoil'd by them, so I can justly say. That never any one went from me without a per<g ref="char:EOLhyphen"/>fect Cure; and as the Methods I use are throughly Effectual, so they are absolutely Safe. The POX, with every Malignant Symptom, I throughly Cure in Three Weeks or a Month, taking away all wracking pains in the Bones, Nodes in the Arms or Legs, Scabs, Warrs, or Shankers; Ul<g ref="char:EOLhyphen"/>cers in the Throat, or any part; and the time that I have limited is the largest I require for the Cure of the worst of any <hi>Venereal</hi> Distemper that I have hitherto ever met with. The Symptoms of this Disease are many, and the World has, to its Cost, learn'd the Experimental Knowledge</p>
+            <gap reason="missing" resp="#oxf" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
